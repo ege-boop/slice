@@ -1,4 +1,4 @@
-# Original App Design Project - Slice
+![ezgif-561be3f5396cf2fb](https://github.com/user-attachments/assets/2cd96dc2-685d-44fd-a37c-47d839094a98)# Original App Design Project - Slice
 
 # Slice 🍕
 
@@ -787,23 +787,24 @@ Slice is a social platform that helps college students discover clubs, connect w
 - Automatic endpoints for each Parse class (User, Club, Post, etc.)
 #### Porgress video
 ## Messages:
-![ezgif-5f798cf49e76e8d0](https://github.com/user-attachments/assets/da3a47c8-353b-46ce-9186-4fc07820b121)
+![ezgif-5f798cf49e76e8d0](https://github.com/user-attachments/assets/b5c711b9-d449-4b74-bb66-19e34ad594c7)
 
 ## Profile + Dark Mode 
 
-![ezgif-52c2d0944ea8d18c](https://github.com/user-attachments/assets/5a795cc7-f503-4a50-95f2-ac5fe2e5be5d)
+![ezgif-52c2d0944ea8d18c](https://github.com/user-attachments/assets/b0839522-bb74-4aff-9ba4-2ff837941fb2)
 
 
 ## Discover page
-![ezgif-5e872e59b209434e](https://github.com/user-attachments/assets/026cb23a-89e9-4823-8969-af3cf18e07f3)
+![ezgif-5e872e59b209434e](https://github.com/user-attachments/assets/43b06550-de5e-4cba-8ecf-f8dc7c65784a)
 
 ## Events
-![ezgif-561be3f5396cf2fb](https://github.com/user-attachments/assets/e64106b4-4723-4a6a-8466-0769176ecce8)
-![ezgif-5bb3cf1751bc8b4c](https://github.com/user-attachments/assets/297a8f2b-62c9-45ac-9714-a15babb0cc5f)
+![ezgif-561be3f5396cf2fb](https://github.com/user-attachments/assets/266c1eaa-9cd3-4ef9-9888-95749be167ed)
+
+![ezgif-5bb3cf1751bc8b4c](https://github.com/user-attachments/assets/16cb643c-a12e-4aa3-b4de-63cb46f77135)
 
 ## Posts / Feed
 
-![ezgif-507814ecc7903e12](https://github.com/user-attachments/assets/30a52f02-72a9-423f-b688-00a789783b47)
+![ezgif-507814ecc7903e12](https://github.com/user-attachments/assets/485c90aa-1cf4-4ad0-a66e-bf619cc6c6d2)
 
 
 ####  Full Video Link Presetation 
