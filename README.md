@@ -1,4 +1,4 @@
-![ezgif-561be3f5396cf2fb](https://github.com/user-attachments/assets/2cd96dc2-685d-44fd-a37c-47d839094a98)# Original App Design Project - Slice
+# Original App Design Project - Slice
 
 # Slice 🍕
 
