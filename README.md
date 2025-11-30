@@ -813,7 +813,7 @@ Slice is a social platform that helps college students discover clubs, connect w
 
 ## Posts / Feed
 
-![ezgif-507814ecc7903e12](https://github.com/user-attachments/assets/485c90aa-1cf4-4ad0-a66e-bf619cc6c6d2)
+![ezgif-507814ecc7903e12](https://github.com/user-attachments/assets/f4f6af55-cd73-4fe0-9a08-a8d29df3f7b9)
 
 
 ####  Full Video Link Presetation 
