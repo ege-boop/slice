@@ -786,6 +786,11 @@ Slice is a social platform that helps college students discover clubs, connect w
 - Authentication via Application ID and Client Key headers
 - Automatic endpoints for each Parse class (User, Club, Post, etc.)
 #### Porgress video
+
+## Authenticator 
+
+![ezgif-13f26db8143fed4c](https://github.com/user-attachments/assets/35c1ac93-3cbc-47ab-b9ef-135fe2f48033)
+
 ## Messages:
 ![ezgif-5f798cf49e76e8d0](https://github.com/user-attachments/assets/b5c711b9-d449-4b74-bb66-19e34ad594c7)
 
