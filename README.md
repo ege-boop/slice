@@ -7,7 +7,7 @@
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
-5.[Progress](#Progress)
+5. [Progress](#Progress)
 
 
 ---
@@ -790,6 +790,7 @@ Slice is a social platform that helps college students discover clubs, connect w
 
 
 #### Progress
+
 ## Authenticator 
 
 ![ezgif-13f26db8143fed4c](https://github.com/user-attachments/assets/39e2c32d-66e2-4408-b14a-4cd61813c0ef)
@@ -816,6 +817,7 @@ Slice is a social platform that helps college students discover clubs, connect w
 
 
 ####  Full Video Link Presetation 
+
 ### https://youtu.be/o5rzRO6zdns 
 
 
