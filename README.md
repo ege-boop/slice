@@ -787,8 +787,9 @@ Slice is a social platform that helps college students discover clubs, connect w
 - All endpoints use standard Parse REST API format
 - Authentication via Application ID and Client Key headers
 - Automatic endpoints for each Parse class (User, Club, Post, etc.)
-#### Porgress video
 
+
+#### Progress
 ## Authenticator 
 
 ![ezgif-13f26db8143fed4c](https://github.com/user-attachments/assets/35c1ac93-3cbc-47ab-b9ef-135fe2f48033)
